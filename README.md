@@ -7,6 +7,12 @@ para o Front-End puxar os dados.
 
 O desenvolvimento do site foi feito com o framework Vue.js com o conceito de componentes e reatividade
 
+![img1](imgs_mercado-da-bala/img1.jpeg)
+
+![img2](imgs_mercado-da-bala/img2.jpeg)
+
+![img3](imgs_mercado-da-bala/img3.jpeg)
+
 Tecnologias utilizadas:
 
 - Django -> servidor web
@@ -23,7 +29,7 @@ OBS: estou levando em conta que já tenha o Python e o Node instalado na máquin
 
 Faça um `git clone` do repositório para a sua máquina
 
-obs: o repositório já vem tanto com a página e o servidor, a API individual está disponibilizada neste [repositório]()
+obs: o repositório já vem tanto com a página e o servidor, a API individual está disponibilizada neste [repositório](https://github.com/rafakimanja/transferencias-cs.git)
 
 Você precisará configurar o servidor, realizando as seguintes etapas:
 1.  Crie um ambiente virtual e instale as dependencias do projeto que estão no arquivos _requirements.txt_. Use o `pip` para isso: `pip install -r requirements.txt`
